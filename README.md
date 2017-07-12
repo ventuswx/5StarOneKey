@@ -4,7 +4,7 @@
 使用教程
 -------------
 首先，浏览器安装了tampermonkey之类的userjs插件，然后点击
-https://github.com/jqqqqqqqqqq/5StarOneKey/raw/master/5%20Star%20One%20Key.user.js
+https://github.com/ventuswx/5StarOneKey/raw/master/5%20Star%20One%20Key.user.js
 浏览器会弹出安装界面
 
 不想用默认评分？
