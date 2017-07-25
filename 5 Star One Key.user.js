@@ -2,8 +2,8 @@
 // @name         5 Star One Key
 // @version      0.23
 // @description  Give five star with single click
-// @updateURL    https://github.com/jqqqqqqqqqq/5StarOneKey/raw/master/5%20Star%20One%20Key.user.js
-// @downloadURL  https://github.com/jqqqqqqqqqq/5StarOneKey/raw/master/5%20Star%20One%20Key.user.js
+// @updateURL    https://github.com/ventuswx/5StarOneKey/raw/master/5%20Star%20One%20Key.user.js
+// @downloadURL  https://github.com/ventuswx/5StarOneKey/raw/master/5%20Star%20One%20Key.user.js
 // @author       jqqqqqqqqqq
 // @match        https://opr.ingress.com/recon
 // @grant        none
@@ -12,7 +12,7 @@
 var buttons = [
 	{button:"Five Star", total:5, name:5, history:5, unique:5, location:5, safety:5},
 	{button:"553355", total:5, name:5, history:3, unique:3, location:5, safety:5},
-	{button:"533333", total:5, name:3, history:3, unique:3, location:5, safety:5},
+	{button:"533333", total:5, name:5, history:5, unique:3, location:3, safety:3},
 	{button:"444444", total:4, name:4, history:4, unique:4, location:4, safety:4},
 ];
 
